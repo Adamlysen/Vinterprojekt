@@ -1,2 +1,2 @@
-﻿Console.WriteLine("difjdijf");
-Console.ReadLine();
+﻿using System;
+
